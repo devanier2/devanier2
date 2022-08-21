@@ -95,6 +95,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/devanier2/devanier2/blob/output/snake.svg" alt="Snake animation" />
-
 ###
